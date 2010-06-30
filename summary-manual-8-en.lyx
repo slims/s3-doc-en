@@ -37,6 +37,7 @@
 \tracking_changes false
 \output_changes false
 \author "" 
+\author "" 
 \end_header
 
 \begin_body
@@ -45,7 +46,7 @@
 \align center
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/1-intro.lyx"
+filename "1-intro.lyx"
 
 \end_inset
 
@@ -55,77 +56,77 @@ filename "/opt/lampp/htdocs/slims-doc-en/1-intro.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/2-intro.lyx"
+filename "2-intro.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/3-install.lyx"
+filename "3-install.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/4-biblio.lyx"
+filename "4-biblio.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/5-member.lyx"
+filename "5-member.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/6-circulation.lyx"
+filename "6-circulation.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/7-stock-take.lyx"
+filename "7-stock-take.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/8-reporting.lyx"
+filename "8-reporting.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/9-systems.lyx"
+filename "9-systems.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/10-masterfile.lyx"
+filename "10-masterfile.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/11-opac.lyx"
+filename "11-opac.lyx"
 
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "/opt/lampp/htdocs/slims-doc-en/12-tips.lyx"
+filename "12-tips.lyx"
 
 \end_inset
 
