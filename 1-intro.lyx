@@ -92,7 +92,7 @@ status collapsed
 
 \lang bahasa
 \begin_inset Graphics
-	filename /opt/lampp/htdocs/slims-doc-en/image/senayan2_logtypekecil.png
+	filename image/senayan2_logtypekecil.png
 	scale 450
 
 \end_inset
@@ -151,7 +151,7 @@ This Document Released with the Creative Common License (CCL)
 
 
 \begin_inset Flex URL
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -177,7 +177,7 @@ status collapsed
 
 \lang bahasa
 \begin_inset Graphics
-	filename /opt/lampp/htdocs/slims-doc-en/image/cc_large-300x300.png
+	filename image/cc_large-300x300.png
 	scale 80
 
 \end_inset
